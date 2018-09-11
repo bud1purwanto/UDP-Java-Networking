@@ -1,0 +1,4 @@
+Tugas Dalam 1 Project
+1. Lalu Lintas 1 	: TrafficLight (Client) & Traffic Controller (Server)
+2. Lalu Lintas 2 	: LaluLintas1 & LaluLintas2
+3. Camera $ Audio 	: TakePicture (Server) & ReceivePicture (Client)
